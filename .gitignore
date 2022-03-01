@@ -68,3 +68,7 @@ yarn-error.log*
 .vercel
 
 .vscode
+mvnw
+mvnw.cmd
+maven-wrapper.jar
+.mvn
